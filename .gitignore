@@ -1,0 +1,16 @@
+# Xcode
+DerivedData/
+build/
+
+# User Data
+*.xcuserstate
+xcuserdata/
+
+# macOS
+.DS_Store
+
+# Secrets
+OpenAIConfiguration.swift
+
+# Swift Package Manager
+.build/
